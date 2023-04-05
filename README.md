@@ -1,4 +1,4 @@
-# senJobejb est une platefore qui faciliter le travail des recruteurs, à promouvoir leurs annonces d'emploi et à trouver le bon candidat pour leurs postes.
+# senJobejb est une plateforme qui faciliter le travail des recruteurs, à promouvoir leurs annonces d'emploi et à trouver le bon candidat pour leurs postes.
 cette plateforme gére plusieurs fonctionnalités qu'on va illustrer à l'appui avec des capture.
 1er étape:
 on est sur la page publique qui est la page inscription candidat
