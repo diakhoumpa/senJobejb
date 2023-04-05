@@ -21,7 +21,9 @@ le candit Ngor s'authentifie pour accéder à son espace
 Ici il a le choix de créer son CV, de voir les offres d'emploi qui lui correspond, voir le CV une fois créer et gérer son profil
 
 4e partie: création du CV
+
 le candidat renseigne ses informations
+
 ![image](https://user-images.githubusercontent.com/105163720/230096605-5e96f0fb-b14c-4cb7-8a3f-aa586ef9ce56.png)
 
 5em partie : aprés validation du cv énération du PDF
